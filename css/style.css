@@ -1,0 +1,7 @@
+input {
+  width: 150px;
+  transition: all 0.5s;
+}
+.ng-touched.ng-invalid {
+  border: 1px solid #CA9494;
+}
