@@ -11,6 +11,6 @@ import {CoursesComponent} from './courses.component';
   directives: [CoursesComponent]
 })
 export class AppComponent{
-  title = "Angular 2 Starting over";
+  title = "Angular 2 Seed Project";
 
 }
